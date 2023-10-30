@@ -1,2 +1,4 @@
 # git_test
-Odin Project Test
+
+My first Odin Repo
+Hello Odin!
